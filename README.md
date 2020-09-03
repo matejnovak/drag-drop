@@ -1,10 +1,10 @@
 ## Description
 
+![Fancy drag drop](fancy-drag-drop-logo.jpg)
 
 ### Drag-drop
 
 Fancy drag drop!
-
 
 ### Preview
 
